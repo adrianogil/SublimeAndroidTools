@@ -1,0 +1,5 @@
+[
+    {   "caption": "Android Tools: Show logcat",
+        "command": "logcat"
+    }
+]
