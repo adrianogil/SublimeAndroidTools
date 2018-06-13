@@ -1,5 +1,8 @@
 [
     {   "caption": "Android Tools: Show logcat",
         "command": "logcat"
+    },
+    {   "caption": "Android Tools: Filter exceptions from logcat",
+        "command": "filter_logcat_errors"
     }
 ]
